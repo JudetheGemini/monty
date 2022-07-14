@@ -20,7 +20,7 @@ stack_t *new_Node(int n)
 	new->next = NULL;
 	new->prev = NULL;
 
-	return (NEW);
+	return (new);
 }
 
 
